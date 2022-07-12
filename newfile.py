@@ -1,8 +1,8 @@
 from selenium import webdriver
-pip3 install selenium
+pip install selenium
 from getpass import getpass
 from webdriver_manager.chrome import ChromeDriverManager
-pip3 install webdriver-manager
+pip install webdriver-manager
 cmd using pip3
 username = input('PI Enter Your Facebook Username, Email or Phone No.: ')
 passwd = getpass('Enter Your Facebook Password: ')
